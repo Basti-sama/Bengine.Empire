@@ -4,8 +4,8 @@
 			"empire": {
 				"type": "module",
 				"name": "Empire View",
-				"version": "0.1.0",
-				"revision": 10,
+				"version": "0.1.1",
+				"revision": 11,
 				"pool": "ext/modules"
 			}
 		}
